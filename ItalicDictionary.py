@@ -8,3 +8,5 @@ italic_dict = {
     'q': '𝘲', 'r': '𝘳', 's': '𝘴', 't': '𝘵', 'u': '𝘶', 'v': '𝘷', 'w': '𝘸', 'x': '𝘹',
     'y': '𝘺', 'z': '𝘻'
 }
+
+#Trying out codespaces, how have i not tried this out before??
