@@ -2,8 +2,11 @@ import pyautogui
 import keyboard
 
 def type_text():
+    #Choose what to type
     pyautogui.write("Hello!")
 
-keyboard.add_hotkey('q', type_text, suppress=True)  
+
+#Choose HotKey        ↓
+keyboard.add_hotkey('f1', type_text, suppress=True)  
 
 keyboard.wait('esc')  
