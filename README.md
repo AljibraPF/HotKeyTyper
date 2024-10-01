@@ -1,4 +1,4 @@
-# Live_Text-To-Italic
+# HotKeyTyper
 
 
-This Python Repository will change your normal text into italic Live
+This Python repository allows you to write a specific text of your choice by simply pressing a single key.
